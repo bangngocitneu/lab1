@@ -1,9 +1,12 @@
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!DOCTYPE html>
+
 <html>
+<head>
+  <title>DSKH</title>
+</head>
 <body>
-<p><b><big>Danh Sách Khách Hàng</big></b></p>
+<h2>Danh Sách Khách Hàng</h2>
 <table border="1px" cellpadding="5px" cellspacing="0px">
   <tr>
     <th width="150px">Họ</th>
